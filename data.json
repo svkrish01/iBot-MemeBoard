@@ -1,0 +1,10 @@
+[
+    {"name": "Alice", "points": 150, "role": "Meme Lord"},
+    {"name": "Bob", "points": 200, "role": "Meme Master"},
+    {"name": "Alice", "points": 50, "role": "Meme Lord"},
+    {"name": "Charlie", "points": 120, "role": "Meme Wizard"},
+    {"name": "Bob", "points": 80, "role": "Meme Master"},
+    {"name": "Diana", "points": 300, "role": "Meme Queen"},
+    {"name": "Eve", "points": 90, "role": "Meme Apprentice"},
+    {"name": "Charlie", "points": 60, "role": "Meme Wizard"}
+]
