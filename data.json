@@ -1,3 +1,5 @@
 [
-    {"name": "Preggo", "points": 100, "role": "Deputy Coordinator"}
+    {"name": "Preggo", "points": 100, "role": "Deputy Coordinator"},
+    {"name": "Niggil", "points": 25, "role": "Deputy Coordinator"},
+    {"name": "Arun", "points": 100, "role": "Deputy Coordinator"}
 ]
